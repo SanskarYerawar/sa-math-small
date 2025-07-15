@@ -17,3 +17,6 @@ print(add(2, 3))     # 5
 print(sq(4))         # 16
 print(swap(1, 2))    # (2, 1)
 ```
+```python
+print("hi")
+```
